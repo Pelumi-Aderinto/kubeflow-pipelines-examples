@@ -1,6 +1,6 @@
 # kubeflow-pipelines-examples
 
-Here is hosted all the examples covered/used in our Kubeflow Pipeline video sets. check the comment of the video to see what version of the repo to pull to follow along. this Repo will be added to and updated for future videos so it's important to ensure you are on the right tag. You should be able to follow the link from the video you watched.
+Here, we show all the examples covered/used in our Kubeflow Pipeline video sets. check the comment of the video to see what version of the repo to pull to follow along. this Repo will be added to and updated for future videos so it's important to ensure you are on the right tag. You should be able to follow the link from the video you watched.
 
 If you would like to look over the lesson plans please look here [lesson](lessons/README.md)
 
